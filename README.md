@@ -46,7 +46,7 @@ I am a **Full Stack Developer** and **UX/UI Designer** based in Peru. My journey
 <p align="left"> <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/SHOPIFY-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /> </p>
 
 **🎨 Design Tools**
-<p align="left"> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/PENPOT-000000?style=for-the-badge&logo=penpot&logoColor=white" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=githubsponsors&logoColor=white" /> <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=githubsponsors&logoColor=white" /> <img src="https://img.shields.io/badge/PENPOT-000000?style=for-the-badge&logo=penpot&logoColor=white" /> </p>
 
 ---
 
