@@ -66,5 +66,5 @@ I am a **Full Stack Developer** and **UX/UI Designer** based in Peru. My journey
 <p align="right">
   <img src="https://img.shields.io/badge/CAFFEINE%20LEVEL%2080%25-90421B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   <br />
-  <i>Turning ambitious visions into premium digital realities ✨</i>
+  <i>coding everyday ✨</i>
 </p>
