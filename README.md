@@ -51,10 +51,7 @@ I am a **Full Stack Developer** and **UX/UI Designer** based in Peru. My journey
 ---
 
 ### 📊 Performance & Activity
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinsomniaz&radius=16&theme=rogue&area=true&order=5&custom_title=Abigail's%20Contributions&hide_border=true" height="200" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinsomniaz&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-</p>
 
 ---
 
@@ -65,6 +62,4 @@ I am a **Full Stack Developer** and **UX/UI Designer** based in Peru. My journey
 
 <p align="right">
   <img src="https://img.shields.io/badge/CAFFEINE%20LEVEL%2080%25-90421B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  <br />
-  <i>coding everyday ✨</i>
 </p>
